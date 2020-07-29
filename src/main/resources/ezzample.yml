@@ -1,0 +1,41 @@
+# this is a comment
+
+name: Karol
+
+names: #Comment
+  - Karol
+  - Paul
+  - Mark
+
+pound_sign: "#"
+
+
+book:
+  author: Joe Buck
+  publisher: random house
+
+
+truth: yes
+
+
+another_truth: True
+
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "This is it's qoute"
+
+colon_string: "my courses: one two Tree"
+
+include_new_lines:
+  asdf asdf asdf
+  asdf adssdf asdf
+  asdf asdf asdfdfas
+
+ignore_new_lines: >
+  this is
+  jus one long
+  string
+
